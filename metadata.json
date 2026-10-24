@@ -1,0 +1,6 @@
+{
+  "name": "Assistant AI",
+  "description": "An intelligent voice and chat assistant powered by Google Assistant and Gemini technologies with routines, device controls, and smart tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
